@@ -1,0 +1,11 @@
+.idea
+composer.lock
+*.log
+tests
+/public/uploads/*
+!/public/uploads/qrcode/
+.tags
+.tags_sorted_by_file
+.png
+.jpg
+.jpeg
